@@ -48,7 +48,7 @@
 }
 /*Themes settings announcement*/
 .ui-standard-sidebar-view #bd-settingspane-container .content-column.default .bda-slist::after {
-    content: "Hi, I just created server where I post stuff about the theme and you can give me feedback,\A also there's a beta now :D. To download it join the server at >> bit.ly/BMTserver <<\A\A It's also how to report bugs now, the other links don't work anymore."!important;
+    content: "Salut, à toi et merci de soutenir screenzone \A \A Profites de ce theme pour discord ;)."!important;
 }
 .avatar-profile::before,
 .avatar-profile::after,
@@ -287,7 +287,7 @@
 .content-region #bd-customcss-attach-controls::after {
     width: 100%;
     padding: 10px;
-    content:"To add custom settings to the theme, copy the following\A code in your custom CSS and replace the things you want\A to change:\A \A :root {\A --accent-color: #7289DA !important;\A --notification-color: #FFFFFF !important;\A --important-notification-color: #F04747 !important;\A}\A\A Don't forget to save/update when you're done!\A\A And if you're too lazy to manually copy it,\A just go to bit.ly/BMTsettings and directly copy/paste\Athe code. ";
+    content:"Pour ajouter des paramètres personnalisés au thème, copiez le code \A suivant dans votre CSS personnalisé et remplacez les éléments que vous voulez changer: \A \A: root {\A --accent-color: # 7289DA! Important; \A --notification-color: #FFFFFF! Important; \A --important-notification-couleur: # F04747! Important; \A} \A \A N'oubliez pas de sauvegarder / mettre à jour lorsque vous avez terminé! \A \A Et si vous êtes trop paresseux pour le copier manuellement, \A allez simplement à bit.ly/BMTsettings et copiez / collez directement \A the code.";
     background: #43B581;
     margin-top: 10px;
     display: block;
