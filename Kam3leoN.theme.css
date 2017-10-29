@@ -1,0 +1,40 @@
+//META{"name":"_Kam3leoN","description":"Kam3leoN Skin Discord","author":"Cédric MALZAT","version":"1.0"}*//{}
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,900,300);
+
+/*
+██╗  ██╗ █████╗ ███╗   ███╗██████╗ ██╗     ███████╗ ██████╗ ███╗   ██╗  
+██║ ██╔╝██╔══██╗████╗ ████║╚════██╗██║     ██╔════╝██╔═══██╗████╗  ██║  
+█████╔╝ ███████║██╔████╔██║ █████╔╝██║     █████╗  ██║   ██║██╔██╗ ██║  
+██╔═██╗ ██╔══██║██║╚██╔╝██║ ╚═══██╗██║     ██╔══╝  ██║   ██║██║╚██╗██║  
+██║  ██╗██║  ██║██║ ╚═╝ ██║██████╔╝███████╗███████╗╚██████╔╝██║ ╚████║  
+╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚═════╝ ╚══════╝╚══════╝ ╚═════╝ ╚═╝  ╚═══╝
+*/
+
+[class~=app] {
+    background: url(https://i.imgur.com/gdRj8P6.png) !important;
+    background-size: cover !important;
+}
+
+/*THIS CHANGES THE COLOR OF THE UNREAD NOTIFICATION*/
+.guilds-wrapper .guilds .guild.unread:not(.selected):before,
+.guild-channels .channel-text.unread:not(.selected):not(.channel-muted):before {
+    background: #43b581;    /*change this to any hex code you want*/
+}
+
+
+/*EDIT THIS TO CHANGE THE FRIENDS ICON IMAGE, I WOULD RECOMMEND USING IMGUR TO HOST YOUR IMAGE*/
+[class~=guilds-wrapper] [class~=guilds] [class~=friends-icon] {
+    background-image: url(https://i.imgur.com/dsJCgV9.png)
+}
+
+
+/*IF YOU DON'T WANT A CUSTOM FRIENDS ICON JUST REMOVE THIS BIT OF CODE*/
+[class~=guilds-wrapper] [class~=guilds] [class~=friends-icon] {
+    display: block;
+    width: 50px;
+    height: 50px;
+    content: '';
+    background-size: 230%;    /*how zoomed in or zoomed out your image is*/
+    background-repeat: no-repeat;
+    background-position: top left;    /*the positioning of your image in the icon, for example "top left" uses the top left of the image*/
+}
