@@ -1,15 +1,7 @@
 # Kam3leoN  Discord Theme
-
-██╗  ██╗ █████╗ ███╗   ███╗██████╗ ██╗     ███████╗ ██████╗ ███╗   ██╗  
-██║ ██╔╝██╔══██╗████╗ ████║╚════██╗██║     ██╔════╝██╔═══██╗████╗  ██║  
-█████╔╝ ███████║██╔████╔██║ █████╔╝██║     █████╗  ██║   ██║██╔██╗ ██║  
-██╔═██╗ ██╔══██║██║╚██╔╝██║ ╚═══██╗██║     ██╔══╝  ██║   ██║██║╚██╗██║  
-██║  ██╗██║  ██║██║ ╚═╝ ██║██████╔╝███████╗███████╗╚██████╔╝██║ ╚████║  
-╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚═════╝ ╚══════╝╚══════╝ ╚═════╝ ╚═╝  ╚═══╝
-
 This is a custom made theme for Discord.
 
-To get the BetterDiscord file, check the [**releases page**](https://github.com/DinosParkour/discord-theme/releases/latest).
+To get the BetterDiscord file, check the [**releases page**](https://github.com/Kam3leoN/Kam3leoN_Discord).
 
 Feel free to use it, leave feedback and suggest new features!
 For optimal results, **use the dark theme**.
@@ -25,4 +17,4 @@ dynamically load the theme without having to download any files.
 ```
 
 # Preview
-![Preview](https://i.imgur.com/RW48vWc.jpg)
+![Preview](https://i.imgur.com/...)
