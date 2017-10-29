@@ -1,9 +1,9 @@
 /*changelog*/
 .ui-standard-sidebar-view #bd-settingspane-container .content-column.default .bda-slist::before {
-    content: "Changelog: Changelog now on github or in the discord server.\A \A Theme settings:go to the Custom CSS tab.\A \A Please help me inprove the theme!\A Go to bit.ly/BMTserver to signal bugs or incoherences :)"!important;
+    content: "Skin : Kam3leoN Material Theme\A \A Version : 3.0\A \A Changelog : Changelog now on github or in the discord server.\A \A "!important;
 }
 :root {
-    --version:"Kam3leoN Material Theme v2.2.9";
+    --version:"Kam3leoN Material Theme v3.0";
     --accent-color: #0099ff;/*#7289DA;*/
     --notification-color: #fff;
     --important-notification-color: #F04747;
@@ -7767,7 +7767,7 @@ a:active .friends-icon {
 .theme-light .container-iksrDt .horizontal-2BEEBe div:nth-of-type(3):before {
     position: absolute;
     z-index: 10000;
-    content: "GO TO SETTINGS";
+    content: "ALLER VERS LES RÉGLAGES";
     display: block;
     width: 230px;
     height: 14px;
@@ -7840,7 +7840,7 @@ div.platform-win .theme-light .layer[layer-id="user-settings"] .ui-standard-side
     visibility: hidden
 }
 .bd-blue .layer:first-of-type::before {
-    content: 'You need to have the "BetterDiscord blue" disabled for this theme to work properly. To disable it, go in settings > betterdiscord > core.';
+    content: 'Vous devez désactiver le "BetterDiscord blue" pour que ce thème fonctionne correctement. Pour le désactiver, allez dans settings> betterdiscord> core.';
     position: fixed;
     display: block;
     width: 450px;
@@ -7858,7 +7858,7 @@ div.platform-win .theme-light .layer[layer-id="user-settings"] .ui-standard-side
     text-align: center;
 }
 .app::after {
-    content: 'Tip: if you want to have this blue as the accent color for the theme, go in "custom css" and set the accent color to #3A71C1 .';
+    content: 'ASTUCES: Si vous voulez avoir ce bleu comme couleur d\'accent pour le thème, allez dans "custom css" et réglez la couleur d\'accentuation sur #3A71C1.';
     position: fixed;
     display: block;
     width: 400px;
@@ -13519,8 +13519,7 @@ textarea:focus + .maxLength-1NjdA0{
 .theme-dark .ui-standard-sidebar-view{
   background: transparent!important;
 }
-/**/
-/*
+
 .layer.animating:first-of-type  {
     opacity: 1!important;
     transform: scale(1)!important;
@@ -13568,8 +13567,9 @@ textarea:focus + .maxLength-1NjdA0{
 .layer.stop-animations+.layer{
     opacity:1!important;
     animation:opacity 300ms ease!important;
-}*/
-/* #friends .friends-header .tab-bar {
+}
+
+#friends .friends-header .tab-bar {
   height:100%
 }
 
@@ -13593,9 +13593,9 @@ textarea:focus + .maxLength-1NjdA0{
   background: none;
   color: var(--white4);
   border-bottom: 2px solid var(--white4);
-} */
+} 
 
-/* .theme-dark #friends .friends-header .tab-bar .tab-bar-item.selected::after, .theme-dark #friends .friends-header .tab-bar .tab-bar-item:hover::after {
+.theme-dark #friends .friends-header .tab-bar .tab-bar-item.selected::after, .theme-dark #friends .friends-header .tab-bar .tab-bar-item:hover::after {
   content: "";
   display: block;
   position: absolute;
@@ -13604,13 +13604,13 @@ textarea:focus + .maxLength-1NjdA0{
   bottom: -16px;
   left: 0;
   right: 0;
-} */
+}
 
-/* .theme-dark #friends .friends-header .tab-bar .tab-bar-item:hover::after {
+.theme-dark #friends .friends-header .tab-bar .tab-bar-item:hover::after {
   background: var(--white4);
-} */
+} 
 
-/* .emoji-alias-placeholder::after, .emoji-alias-placeholder::before {
+ .emoji-alias-placeholder::after, .emoji-alias-placeholder::before {
   color: #fff;
 }
 
@@ -13630,7 +13630,7 @@ textarea:focus + .maxLength-1NjdA0{
 
 .emoji-row .emoji-alias-input .emoji-input:focus {
   box-shadow: 0 2px 0 rgba(255,255,255,.05),0 2px 0 var(--accent-color)!important;
-} */
+}
 .iconCollapsed-1INdMX, .iconDefault-xzclSQ, .nameCollapsed-3_ChMu, .nameDefault-Lnjrwm{
   color:rgba(255,255,255,.2);
 }
