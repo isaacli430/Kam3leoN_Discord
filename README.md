@@ -1,20 +1,43 @@
-# Kam3leoN  Discord Theme
-This is a custom made theme for Discord.
+---------------------------------------------
+FRENCH
+---------------------------------------------
 
-To get the BetterDiscord file, check the [**releases page**](https://github.com/Kam3leoN/Kam3leoN_Discord).
+# KAM3LEON DISCORD THEME
+C'est un thème fait sur mesure pour Discord.
 
-Feel free to use it, leave feedback and suggest new features!
-For optimal results, **use the dark theme**.
+Pour obtenir le fichier BetterDiscord, vérifiez [**releases page**](https://github.com/Kam3leoN/Kam3leoN_Discord).
 
-Designed by *Kam3leoN* ; latest version: **1.0**.
+N'hésitez pas à l'utiliser, laisser des commentaires et suggérer de nouvelles fonctionnalités!
+Pour des résultats optimaux, ** utilisez le thème sombre **.
 
-# Dynamic Import
-Paste this link in your Custom CSS section if you want to
-dynamically load the theme without having to download any files.
-```css
-@import
-    url("https://drive.google.com/")
-```
+# VERSION
+Designed by *Kam3leoN* ; dernière version: **1.1**.
 
-# Preview
-![Preview](https://i.imgur.com/...)
+# DYNAMIC IMPORT
+Collez ce lien dans votre section CSS personnalisée si vous voulez
+charger dynamiquement le thème sans avoir à télécharger de fichiers.
+
+# VISUEL
+Coming Soon !
+
+---------------------------------------------
+ENGLISH
+---------------------------------------------
+
+# KAM3LEON DISCORD THEME
+It's a custom-made theme for Discord.
+
+To obtain the BetterDiscord file, check [** releases page **] (https://github.com/Kam3leoN/Kam3leoN_Discord).
+
+Feel free to use it, leave comments and suggest new features!
+For best results, ** use the dark theme **.
+
+# VERSION
+Designed by * Kam3leoN *; last version: ** 1.1 **.
+
+# DYNAMIC IMPORT
+Paste this link into your custom CSS section if you want
+dynamically load the theme without downloading files.
+
+# VISUAL
+Coming Soon!
