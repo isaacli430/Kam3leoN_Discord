@@ -1,26 +1,10 @@
-/*
-///////////////////////////////////////
- - Beard's Material Discord Theme -
-- made from scratch by Beard Design -
-      - Created 10/07/2016 -
-       - beard-design.com -
-///////////////////////////////////////
-/!\
-Lilian Tedone(Beard Design) retains full copyright of this code.
-You are NOT ALLOWED to redistribute this file/Theme or any of the contents of it in any way or method.
-You are allowed to use this theme as it is, and edit it it AS LONG AS YOU KEEP IT FOR YOURSELF.
-I.e. you are NOT ALLOWED to post an edited version of this theme to Github or other similar platforms without a clear and direct permission from Lilian Tedone.
-Sorry I have to be super aggressive in this legal stuff, but there has been some problems and I just dont want more :3
-///////////////////////////////////////
-*/
-
 /*changelog*/
 .ui-standard-sidebar-view #bd-settingspane-container .content-column.default .bda-slist::before {
     content: "Changelog: Changelog now on github or in the discord server.\A \A Theme settings:go to the Custom CSS tab.\A \A Please help me inprove the theme!\A Go to bit.ly/BMTserver to signal bugs or incoherences :)"!important;
 }
 :root {
-    --version:"Beard's Material Theme v2.2.9";
-    --accent-color: #7289DA;
+    --version:"Kam3leoN Material Theme v2.2.9";
+    --accent-color: #0099ff;/*#7289DA;*/
     --notification-color: #fff;
     --important-notification-color: #F04747;
     --channels-scrollbar: var(--disabled);
